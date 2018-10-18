@@ -1,4 +1,6 @@
-const contacts = [
+import { Contact } from './app/contact';
+
+export const contacts: Contact[] = [
   {
     "name": "James Butte",
     "phone": "504-845-1421",
@@ -40,3 +42,5 @@ const contacts = [
     "email": "larry_gaven@hotmail.com"
   }
 ];
+
+

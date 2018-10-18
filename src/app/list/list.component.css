@@ -1,0 +1,30 @@
+mat-toolbar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+    background-color: lightgreen; 
+}
+
+mat-toolbar label {
+    font-size: 14px;
+}
+
+table {
+    width: 100%;
+    margin: 50px;
+}
+
+table th {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.mat-column-right {
+    text-align: center;
+}
+
+input {
+    margin: 5px;
+    
+}
